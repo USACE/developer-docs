@@ -10,6 +10,8 @@
 
 - Server-side
 
+  - [Getting Setup](/server-side/getting-started.md)
+
   - Golang
 
     - Getting Setup
