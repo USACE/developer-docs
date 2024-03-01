@@ -4,7 +4,7 @@
 
 - Front End
 
-  - Getting Setup
+  - [Getting Setup](/front-end/getting-started.md)
   - Intro to React
   - State Management
 
