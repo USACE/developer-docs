@@ -12,9 +12,18 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
-    }
+        name: "Developer Docs",
+        repo: "https://github.com/USACE/developer-docs",
+        loadSidebar: false,
+        search: {
+          maxAge: 86400000,
+          paths: "auto",
+          placeholder: "Search...",
+          noData: "No Results!",
+          depth: 2,
+          hideOtherSidebarContent: false,
+        },
+      };
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
