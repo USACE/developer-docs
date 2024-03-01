@@ -7,12 +7,11 @@
 ### Recommended Extensions for vscode:
 
 - Golang:
-  - [Go](https://github.com/golang/vscode-go#readme)
+  - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 - Python:
   - [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-  -
 - Docker:
   - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
   - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
